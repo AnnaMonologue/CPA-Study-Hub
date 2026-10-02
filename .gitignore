@@ -1,0 +1,10 @@
+# 私有/自购资料不要上传到公开仓库
+corpus/
+private/
+downloads/
+
+# 临时文件
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
